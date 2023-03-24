@@ -1,0 +1,8 @@
+This is a project done for the course Information-retrieval
+
+#####
+Tweets classification in real time based on genere--news, sports, trending, ....
+#####
+tweets search and rank them with scores ---more priority for high follower count,
+                                                             high likes,
+                                                             posting time
