@@ -6,3 +6,9 @@ Tweets classification in real time based on genere--news, sports, trending, ....
 tweets search and rank them with scores ---more priority for high follower count,
                                                              high likes,
                                                              posting time
+
+
+Team members: 
+Mohana Siddhartha
+Kolluru Jeswanth 
+Seeram Narasimha
